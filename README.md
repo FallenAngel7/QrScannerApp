@@ -1,0 +1,2 @@
+# QrScannerApp
+Android Qr Scanner
